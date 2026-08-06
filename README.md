@@ -11,7 +11,7 @@ The mod is currently in alpha development.
 ## Requirements
 
 - Minecraft 1.21.1
-- NeoForge 21.1.230 - 21.1.240
+- NeoForge 21.1.230 - 21.1.xxx
 - Required dependencies: [Player Animation Library](https://modrinth.com/mod/player-animation-library), [Curios](https://modrinth.com/mod/curios)
 
 ## Downloads
