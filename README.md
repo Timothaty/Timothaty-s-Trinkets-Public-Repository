@@ -4,6 +4,10 @@
 <img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/79b2aac9-17cc-4a59-a4c4-01dc727d0bca" />
 
 
+If you encounter a bug, experience a crash, or notice lag spikes or TPS drops while using the mod, please report it through the "Issues" page. Add crash-report and log file so I can fix the problem better and faster!
+
+
+
 Timothaty's Trinkets is a dark fantasy content mod for Minecraft that adds trinkets, relics, unusual equipment, creatures, rituals, effects, and interconnected progression mechanics.
 
 The mod is currently in alpha development.
