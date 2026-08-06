@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 # Timothaty's Trinkets
+=======
+# Timothaty's Trinkets Public Repository
+>>>>>>> origin/main
 
 <img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/79b2aac9-17cc-4a59-a4c4-01dc727d0bca" />
 
 
 Timothaty's Trinkets is a dark fantasy content mod for Minecraft that adds
+<<<<<<< HEAD
 trinkets, relics, unusual equipment, creatures, rituals, effects, and
+=======
+trinkets, relics, unusual equipment, creatures, rituals and
+>>>>>>> origin/main
 interconnected progression mechanics.
 
 The mod is currently in alpha development.
