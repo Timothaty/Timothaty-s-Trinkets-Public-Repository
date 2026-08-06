@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "ADA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:amethyst_shard" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "id": "timothatys_trinkets:dormant_sphere",
+    "count": 1
+  }
+}

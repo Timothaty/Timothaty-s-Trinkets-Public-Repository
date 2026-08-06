@@ -1,0 +1,91 @@
+{
+  "replace": false,
+  "values": [
+    "shulker_bullet",
+    "fox",
+    "tropical_fish",
+    "cave_spider",
+    {
+      "id": "twilight_forest:minoshroom",
+      "required": false
+    },
+    "parrot",
+    "wither",
+    "cat",
+    {
+      "id": "mowzies_mobs:ferrous_wroughtnaut",
+      "required": false
+    },
+    "spider",
+    "ender_dragon",
+    "frog",
+    {
+      "id": "twilight_forest:naga",
+      "required": false
+    },
+    "elder_guardian",
+    "armor_stand",
+    "donkey",
+    "mule",
+    "timothatys_trinkets:necromancer",
+    "axolotl",
+    "bee",
+    "rabbit",
+    "zombie",
+    "cod",
+    "sheep",
+    "enderman",
+    "shulker",
+    "ravager",
+    "phantom",
+    "cow",
+    "pig",
+    "tnt",
+    "area_effect_cloud",
+    "pufferfish",
+    "camel",
+    "ghast",
+    "turtle",
+    "squid",
+    "blaze",
+    {
+      "id": "mowzies_mobs:frostmaw",
+      "required": false
+    },
+    "timothatys_trinkets:vfx_indulgency_blessing",
+    "tadpole",
+    "warden",
+    "strider",
+    "salmon",
+    "dolphin",
+    "goat",
+    "polar_bear",
+    {
+      "id": "twilight_forest:alpha_yeti",
+      "required": false
+    },
+    "bat",
+    {
+      "id": "twilight_forest:ur_ghast",
+      "required": false
+    },
+    "panda",
+    {
+      "id": "twilight_forest:snow_queen",
+      "required": false
+    },
+    "endermite",
+    "vex",
+    "snow_golem",
+    "sniffer",
+    "iron_golem",
+    {
+      "id": "twilight_forest:hydra",
+      "required": false
+    },
+    {
+      "id": "twilight_forest:lich",
+      "required": false
+    }
+  ]
+}

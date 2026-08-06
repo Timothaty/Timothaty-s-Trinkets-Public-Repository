@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "timothatys_trinkets:fang"
+    }
+  },
+  "result": {
+    "id": "timothatys_trinkets:fangs",
+    "count": 1
+  }
+}

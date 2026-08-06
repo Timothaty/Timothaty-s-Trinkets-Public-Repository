@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "timothatys_trinkets:block/debtlords_head"
+      }
+    }
+  ]
+}

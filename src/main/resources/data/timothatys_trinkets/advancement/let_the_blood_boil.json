@@ -1,0 +1,12 @@
+{
+  "parent": "timothatys_trinkets:at_his_altar",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:bottle_of_blood" },
+    "title": { "translate": "advancement.timothatys_trinkets.let_the_blood_boil.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.let_the_blood_boil.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "blood_boiling_sacrifice": { "trigger": "timothatys_trinkets:blood_boiling_sacrifice", "conditions": {} }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "timothatys_trinkets:aromatic_olibanum",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "timothatys_trinkets:aromatic_olibanum",
+              "properties": {
+                "age": "2"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

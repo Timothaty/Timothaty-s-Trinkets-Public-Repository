@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a b",
+    "cdc",
+    "eee"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_candle"
+    },
+    "b": {
+      "item": "minecraft:bone"
+    },
+    "c": {
+      "item": "minecraft:purple_wool"
+    },
+    "d": {
+      "item": "timothatys_trinkets:cursed_emerald"
+    },
+    "e": {
+      "item": "minecraft:deepslate_bricks"
+    }
+  },
+  "result": {
+    "id": "timothatys_trinkets:damnation_altar",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "timothatys_trinkets:my_first_trinket",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:flaming_ember" },
+    "title": { "translate": "advancement.timothatys_trinkets.ignis_anthracite.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.ignis_anthracite.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "has_flaming_ember": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "items": "timothatys_trinkets:flaming_ember" } ] }
+    }
+  }
+}

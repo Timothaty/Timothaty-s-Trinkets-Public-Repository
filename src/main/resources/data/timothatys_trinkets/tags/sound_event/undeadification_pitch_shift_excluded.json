@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "timothatys_trinkets:refreshing_chalice_use",
+    "timothatys_trinkets:fear",
+    "timothatys_trinkets:pagams_charm_drop",
+    "timothatys_trinkets:equip_undead_knight_armlet",
+    "timothatys_trinkets:magical_hit_proc",
+    "timothatys_trinkets:cleansing_dust_use",
+    "timothatys_trinkets:farmers_ring_equip",
+    "timothatys_trinkets:champions_gauntlet_crit_proc",
+    "timothatys_trinkets:drum_stacking",
+    "timothatys_trinkets:indulgency_used",
+    "timothatys_trinkets:rare_item_sacrifice",
+    "timothatys_trinkets:common_item_sacrifice",
+    "timothatys_trinkets:equip_ritual_dagger",
+    "timothatys_trinkets:dead_luck_death",
+    "timothatys_trinkets:purge",
+    "timothatys_trinkets:land_blighted",
+    "timothatys_trinkets:undeadification_start",
+    "timothatys_trinkets:undeadification_loop",
+    "timothatys_trinkets:undeadification_succesful",
+    "timothatys_trinkets:undeadification_failed",
+    "timothatys_trinkets:desolated",
+    "timothatys_trinkets:undead_knight_reincarnation_1",
+    "timothatys_trinkets:undead_knight_reincarnation_2",
+    "timothatys_trinkets:undead_knight_reincarnation_3"
+  ]
+}

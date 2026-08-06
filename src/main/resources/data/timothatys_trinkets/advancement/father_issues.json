@@ -1,0 +1,12 @@
+{
+  "parent": "timothatys_trinkets:bead_collector",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:bead_of_pride" },
+    "title": { "translate": "advancement.timothatys_trinkets.father_issues.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.father_issues.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "has_bead": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "items": "timothatys_trinkets:bead_of_pride" } ] } }
+  }
+}

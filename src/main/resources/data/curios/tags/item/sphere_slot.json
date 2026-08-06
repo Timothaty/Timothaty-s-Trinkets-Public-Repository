@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "timothatys_trinkets:void_sphere",
+    "timothatys_trinkets:echo_sphere",
+    "timothatys_trinkets:fire_sphere",
+    "timothatys_trinkets:venom_sphere"
+  ]
+}

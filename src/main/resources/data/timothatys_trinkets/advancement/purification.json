@@ -1,0 +1,12 @@
+{
+  "parent": "timothatys_trinkets:my_first_trinket",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:cleansing_dust" },
+    "title": { "translate": "advancement.timothatys_trinkets.purification.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.purification.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "use_cleansing_dust": { "trigger": "timothatys_trinkets:use_cleansing_dust", "conditions": {} }
+  }
+}

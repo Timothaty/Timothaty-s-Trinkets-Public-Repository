@@ -1,0 +1,12 @@
+{
+  "parent": "timothatys_trinkets:my_first_trinket",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:champions_gauntlet" },
+    "title": { "translate": "advancement.timothatys_trinkets.unholy_duality.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.unholy_duality.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "absorb_soul_orb": { "trigger": "timothatys_trinkets:absorb_soul_orb_with_duality", "conditions": {} }
+  }
+}

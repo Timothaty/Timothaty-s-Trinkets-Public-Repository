@@ -1,0 +1,13 @@
+{
+  "parent": "timothatys_trinkets:custom/damnation_altar",
+  "textures": {
+    "all": "timothatys_trinkets:block/altar",
+    "particle": "timothatys_trinkets:block/altar",
+    "1": "timothatys_trinkets:block/altar_side",
+    "4": "timothatys_trinkets:block/altar",
+    "5": "timothatys_trinkets:block/altar_top",
+    "6": "timothatys_trinkets:block/altar_skull",
+    "7": "timothatys_trinkets:block/red_candle_lit"
+  },
+  "render_type": "cutout"
+}

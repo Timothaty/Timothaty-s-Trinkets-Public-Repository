@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "soul_sand_valley",
+    {
+      "id": "#minecraft:is_dry_overworld",
+      "required": false
+    },
+    {
+      "id": "#c:is_spooky",
+      "required": false
+    },
+    {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
+      "id": "#c:is_hot_overworld",
+      "required": false
+    },
+    {
+      "id": "#c:is_cold_overworld",
+      "required": false
+    },
+    {
+      "id": "#c:is_forest",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "timothatys_trinkets:curse_upon_me",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:damnation_altar" },
+    "title": { "translate": "advancement.timothatys_trinkets.at_his_altar.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.at_his_altar.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "has_altar": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "items": "timothatys_trinkets:damnation_altar" } ] }
+    }
+  }
+}

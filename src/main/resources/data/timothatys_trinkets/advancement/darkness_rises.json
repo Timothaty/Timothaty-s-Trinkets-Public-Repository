@@ -1,0 +1,12 @@
+{
+  "parent": "timothatys_trinkets:reliquiarium",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:block_of_blight" },
+    "title": { "translate": "advancement.timothatys_trinkets.darkness_rises.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.darkness_rises.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "step_on_blight": { "trigger": "timothatys_trinkets:step_on_blight", "conditions": {} }
+  }
+}

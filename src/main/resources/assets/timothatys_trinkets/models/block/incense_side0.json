@@ -1,0 +1,1 @@
+{ "parent": "timothatys_trinkets:block/incense_side_base", "textures": { "particle": "timothatys_trinkets:block/incense_dot", "line": "timothatys_trinkets:block/incense_line1" } }

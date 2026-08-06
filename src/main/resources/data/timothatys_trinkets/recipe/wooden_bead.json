@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " P ",
+    "PBP",
+    " P "
+  ],
+  "key": {
+    "P": { "tag": "minecraft:planks" },
+    "B": { "tag": "minecraft:wooden_buttons" }
+  },
+  "result": {
+    "id": "timothatys_trinkets:wooden_bead",
+    "count": 1
+  }
+}

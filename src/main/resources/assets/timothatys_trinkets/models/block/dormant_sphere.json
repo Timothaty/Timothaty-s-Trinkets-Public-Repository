@@ -1,0 +1,6 @@
+{
+  "parent": "builtin/entity",
+  "textures": {
+    "particle": "timothatys_trinkets:block/dormant_sphere_cube"
+  }
+}

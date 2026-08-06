@@ -1,0 +1,15 @@
+{
+  "parent": "timothatys_trinkets:reliquiarium",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:bead_of_repentance" },
+    "title": { "translate": "advancement.timothatys_trinkets.bead_collector.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.bead_collector.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "has_bead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "items": "#timothatys_trinkets:beads" } ] }
+    }
+  }
+}

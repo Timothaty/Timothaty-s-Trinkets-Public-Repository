@@ -1,0 +1,17 @@
+{
+  "type": "timothatys_trinkets:damnation_altar_transmutation",
+  "outer_ingredients": [
+    { "item": "minecraft:gold_ingot" },
+    { "item": "minecraft:gold_ingot" },
+    { "item": "minecraft:gold_ingot" },
+    { "item": "minecraft:gold_ingot" }
+  ],
+  "center_ingredient": {
+    "item": "timothatys_trinkets:bead_of_blasphemy"
+  },
+  "result": {
+    "id": "timothatys_trinkets:indulgency",
+    "count": 1
+  },
+  "duration": 200
+}

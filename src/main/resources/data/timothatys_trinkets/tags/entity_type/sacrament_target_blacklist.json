@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:skeleton_horse",
+    "minecraft:zombie_horse",
+    { "id": "timothatys_trinkets:vfx_indulgency_blessing", "required": false }
+  ]
+}

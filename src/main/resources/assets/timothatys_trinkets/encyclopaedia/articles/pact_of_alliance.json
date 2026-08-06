@@ -1,0 +1,51 @@
+{
+  "id": "pact_of_alliance",
+  "category": "holiness",
+  "title": "guide.timothatys_trinkets.holiness.pact_of_alliance.1",
+  "icon": "timothatys_trinkets:item/pact_of_alliance",
+  "order": 1,
+  "elements": [
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.pact_of_alliance.short_description",
+      "align": "center",
+      "gap": 17
+    },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.lore",
+      "align": "center",
+      "gap": 5
+    },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.pact_of_alliance.lore.1",
+      "align": "left",
+      "gap": 5
+    },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.pact_of_alliance.lore.2",
+      "align": "left",
+      "gap": 5
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.pact_of_alliance.lore.3",
+      "align": "left",
+      "gap": 30
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.mechanics",
+      "align": "center",
+      "gap": 7
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.pact_of_alliance.mechanics.1",
+      "align": "left",
+      "gap": 5
+    }
+  ]
+}

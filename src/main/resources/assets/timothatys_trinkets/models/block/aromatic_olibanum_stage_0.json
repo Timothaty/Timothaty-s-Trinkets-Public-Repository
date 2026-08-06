@@ -1,0 +1,6 @@
+{
+  "parent": "timothatys_trinkets:block/aromatic_olibanum_base",
+  "textures": {
+    "resin": "timothatys_trinkets:block/aromatic_olibanum_stage_0"
+  }
+}

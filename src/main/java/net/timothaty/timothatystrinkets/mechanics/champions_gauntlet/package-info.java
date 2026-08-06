@@ -1,0 +1,1 @@
+package net.timothaty.timothatystrinkets.mechanics.champions_gauntlet;

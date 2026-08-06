@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "zombie",
+    "warden",
+    "cave_spider",
+    "creeper",
+    "endermite",
+    "enderman",
+    "witch",
+    "shulker",
+    "spider",
+    "ravager"
+  ]
+}

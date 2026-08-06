@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:diamond" },
+        { "type": "minecraft:item", "name": "minecraft:emerald" },
+        { "type": "minecraft:item", "name": "minecraft:iron_ingot" },
+        { "type": "minecraft:item", "name": "minecraft:coal" },
+        { "type": "minecraft:item", "name": "minecraft:gold_ingot" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "timothatys_trinkets:bead_collector",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:bead_of_gnosis" },
+    "title": { "translate": "advancement.timothatys_trinkets.i_aint_eating_from_that_tree_anymore.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.i_aint_eating_from_that_tree_anymore.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "has_bead": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "items": "timothatys_trinkets:bead_of_gnosis" } ] } }
+  }
+}

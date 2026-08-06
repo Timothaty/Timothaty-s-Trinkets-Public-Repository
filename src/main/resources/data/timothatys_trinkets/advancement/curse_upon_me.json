@@ -1,0 +1,15 @@
+{
+  "parent": "timothatys_trinkets:reliquiarium",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:cursed_emerald" },
+    "title": { "translate": "advancement.timothatys_trinkets.curse_upon_me.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.curse_upon_me.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "has_cursed_emerald": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "items": "timothatys_trinkets:cursed_emerald" } ] }
+    }
+  }
+}

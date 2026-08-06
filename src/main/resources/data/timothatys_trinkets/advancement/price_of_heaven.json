@@ -1,0 +1,12 @@
+{
+  "parent": "timothatys_trinkets:damnable_document",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:holy_ink" },
+    "title": { "translate": "advancement.timothatys_trinkets.price_of_heaven.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.price_of_heaven.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "give_indulgency": { "trigger": "timothatys_trinkets:give_indulgency_to_cleric", "conditions": {} }
+  }
+}

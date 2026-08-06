@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "timothatys_trinkets:necromancer_hurt",
+    "timothatys_trinkets:debtlord_roar",
+    "timothatys_trinkets:debtlord_death",
+    "timothatys_trinkets:hoof_step",
+    "timothatys_trinkets:dlrd_talk",
+    "timothatys_trinkets:undead_knight_step",
+    "timothatys_trinkets:undead_knight_death_1",
+    "timothatys_trinkets:undead_knight_death_2",
+    "timothatys_trinkets:undead_knight_death_3"
+  ]
+}

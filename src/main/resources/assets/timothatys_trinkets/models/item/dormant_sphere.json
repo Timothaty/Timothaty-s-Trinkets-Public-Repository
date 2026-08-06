@@ -1,0 +1,9 @@
+{
+  "parent": "timothatys_trinkets:custom/sphere_cube",
+  "textures": {
+    "1": "timothatys_trinkets:block/dormant_sphere_cube",
+    "3": "timothatys_trinkets:block/outline_dormant_sphere",
+    "particle": "timothatys_trinkets:block/dormant_sphere_cube"
+  },
+  "render_type": "cutout"
+}

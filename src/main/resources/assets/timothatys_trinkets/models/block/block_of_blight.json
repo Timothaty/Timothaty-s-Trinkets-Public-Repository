@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "timothatys_trinkets:block/blighted_block",
+    "particle": "timothatys_trinkets:block/blighted_block"
+  },
+  "render_type": "solid"
+}

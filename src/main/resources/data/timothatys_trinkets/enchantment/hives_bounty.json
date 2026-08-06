@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.timothatys_trinkets.hives_bounty"
+  },
+  "supported_items": "timothatys_trinkets:golden_honey_comb",
+  "weight": 1,
+  "max_level": 3,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 6,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 1,
+  "slots": [
+    "any"
+  ],
+  "exclusive_set": []
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#create_winery:red_wines", "required": false },
+    { "id": "#create_winery:white_wines", "required": false },
+    { "id": "#create_winery:rose_wines", "required": false },
+    { "id": "#vinery:red_wine", "required": false },
+    { "id": "#vinery:white_wine", "required": false }
+  ]
+}

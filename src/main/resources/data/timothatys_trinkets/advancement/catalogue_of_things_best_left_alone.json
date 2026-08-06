@@ -1,0 +1,15 @@
+{
+  "parent": "timothatys_trinkets:curse_upon_me",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:encyclopaedia_reliquiarum" },
+    "title": { "translate": "advancement.timothatys_trinkets.catalogue_of_things_best_left_alone.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.catalogue_of_things_best_left_alone.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "has_encyclopaedia": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "items": "timothatys_trinkets:encyclopaedia_reliquiarum" } ] }
+    }
+  }
+}

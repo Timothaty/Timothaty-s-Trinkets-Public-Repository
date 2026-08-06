@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "timothatys_trinkets:blocks/debtlords_head",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "timothatys_trinkets:debtlords_head"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "holiness",
+  "title": "guide.timothatys_trinkets.catalogue_chapters.1",
+  "icon": "timothatys_trinkets:screens/holiness",
+  "animated_icon": true,
+  "frames": 4,
+  "frame_ticks": 30,
+  "order": 0
+}

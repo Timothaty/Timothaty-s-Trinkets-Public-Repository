@@ -1,0 +1,19 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": {
+    "type": "neoforge:and",
+    "values": [
+      "#timothatys_trinkets:necromancer_biomes",
+      {
+        "type": "neoforge:not",
+        "value": "#timothatys_trinkets:necromancer_biome_restriction"
+      }
+    ]
+  },
+  "spawners": {
+    "type": "timothatys_trinkets:necromancer",
+    "weight": 8,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "timothatys_trinkets:at_his_altar",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:ritual_dagger" },
+    "title": { "translate": "advancement.timothatys_trinkets.abel.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.abel.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "sacrifice_sheep": { "trigger": "timothatys_trinkets:sacrifice_sheep", "conditions": {} }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "multipart": [
+    {
+      "when": { "AND": [
+        { "ash": "false" },
+        { "OR": [
+          { "north": "none", "east": "none", "south": "none", "west": "none" },
+          { "north": "side|up", "east": "side|up" },
+          { "east": "side|up", "south": "side|up" },
+          { "south": "side|up", "west": "side|up" },
+          { "west": "side|up", "north": "side|up" }
+        ] }
+      ] },
+      "apply": { "model": "timothatys_trinkets:block/incense_dot" }
+    },
+    {
+      "when": { "AND": [
+        { "ash": "true" },
+        { "OR": [
+          { "north": "none", "east": "none", "south": "none", "west": "none" },
+          { "north": "side|up", "east": "side|up" },
+          { "east": "side|up", "south": "side|up" },
+          { "south": "side|up", "west": "side|up" },
+          { "west": "side|up", "north": "side|up" }
+        ] }
+      ] },
+      "apply": { "model": "timothatys_trinkets:block/ash_dot" }
+    },
+    { "when": { "ash": "false", "north": "side|up" }, "apply": { "model": "timothatys_trinkets:block/incense_side0" } },
+    { "when": { "ash": "false", "south": "side|up" }, "apply": { "model": "timothatys_trinkets:block/incense_side_alt0" } },
+    { "when": { "ash": "false", "east": "side|up" }, "apply": { "model": "timothatys_trinkets:block/incense_side_alt1", "y": 270 } },
+    { "when": { "ash": "false", "west": "side|up" }, "apply": { "model": "timothatys_trinkets:block/incense_side1", "y": 270 } },
+    { "when": { "ash": "false", "north": "up" }, "apply": { "model": "timothatys_trinkets:block/incense_up" } },
+    { "when": { "ash": "false", "east": "up" }, "apply": { "model": "timothatys_trinkets:block/incense_up", "y": 90 } },
+    { "when": { "ash": "false", "south": "up" }, "apply": { "model": "timothatys_trinkets:block/incense_up", "y": 180 } },
+    { "when": { "ash": "false", "west": "up" }, "apply": { "model": "timothatys_trinkets:block/incense_up", "y": 270 } },
+    { "when": { "ash": "true", "north": "side|up" }, "apply": { "model": "timothatys_trinkets:block/ash_side0" } },
+    { "when": { "ash": "true", "south": "side|up" }, "apply": { "model": "timothatys_trinkets:block/ash_side_alt0" } },
+    { "when": { "ash": "true", "east": "side|up" }, "apply": { "model": "timothatys_trinkets:block/ash_side_alt1", "y": 270 } },
+    { "when": { "ash": "true", "west": "side|up" }, "apply": { "model": "timothatys_trinkets:block/ash_side1", "y": 270 } },
+    { "when": { "ash": "true", "north": "up" }, "apply": { "model": "timothatys_trinkets:block/ash_up" } },
+    { "when": { "ash": "true", "east": "up" }, "apply": { "model": "timothatys_trinkets:block/ash_up", "y": 90 } },
+    { "when": { "ash": "true", "south": "up" }, "apply": { "model": "timothatys_trinkets:block/ash_up", "y": 180 } },
+    { "when": { "ash": "true", "west": "up" }, "apply": { "model": "timothatys_trinkets:block/ash_up", "y": 270 } }
+  ]
+}

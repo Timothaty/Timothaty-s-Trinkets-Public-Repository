@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  M",
+    " S ",
+    "S  "
+  ],
+  "key": {
+    "M": { "item": "timothatys_trinkets:striker_of_the_morning_star" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "id": "timothatys_trinkets:morgenshtern",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "timothatys_trinkets:damnation_altar_transmutation",
+  "outer_ingredients": [
+    { "item": "timothatys_trinkets:bead_of_blasphemy" },
+    { "item": "timothatys_trinkets:bead_of_the_sacrament" },
+    { "item": "timothatys_trinkets:bead_of_sin" },
+    { "item": "timothatys_trinkets:bead_of_humility" }
+  ],
+  "center_ingredient": {
+    "item": "timothatys_trinkets:bead_of_the_saint"
+  },
+  "result": {
+    "id": "timothatys_trinkets:bead_of_gnosis",
+    "count": 1
+  },
+  "duration": 200
+}

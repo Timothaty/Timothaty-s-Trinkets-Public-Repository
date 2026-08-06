@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:block",
+  "pools": [],
+  "random_sequence": "timothatys_trinkets:blocks/echo_sphere"
+}

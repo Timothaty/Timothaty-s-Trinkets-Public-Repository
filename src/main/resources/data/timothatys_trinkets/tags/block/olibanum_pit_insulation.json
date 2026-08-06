@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:dirt",
+    "#minecraft:base_stone_overworld",
+    "minecraft:clay",
+    "minecraft:gravel",
+    "minecraft:sand",
+    "minecraft:red_sand",
+    "minecraft:mud",
+    "minecraft:packed_mud",
+    "minecraft:cobblestone",
+    "minecraft:cobbled_deepslate"
+  ]
+}

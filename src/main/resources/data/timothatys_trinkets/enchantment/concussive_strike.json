@@ -1,0 +1,23 @@
+{
+  "description": {
+    "translate": "enchantment.timothatys_trinkets.concussive_strike"
+  },
+  "supported_items": "#timothatys_trinkets:constr_compat",
+  "weight": 2,
+  "max_level": 3,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 6,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 7,
+  "slots": [
+    "any"
+  ],
+  "exclusive_set": [
+    "knockback"
+  ]
+}

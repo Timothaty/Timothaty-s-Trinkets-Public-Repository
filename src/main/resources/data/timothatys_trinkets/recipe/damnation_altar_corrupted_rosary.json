@@ -1,0 +1,17 @@
+{
+  "type": "timothatys_trinkets:damnation_altar_transmutation",
+  "outer_ingredients": [
+    { "item": "timothatys_trinkets:bead_of_blasphemy" },
+    { "item": "timothatys_trinkets:bead_of_blasphemy" },
+    { "item": "timothatys_trinkets:bead_of_blasphemy" },
+    { "item": "timothatys_trinkets:bead_of_blasphemy" }
+  ],
+  "center_ingredient": {
+    "item": "timothatys_trinkets:holy_rosarium"
+  },
+  "result": {
+    "id": "timothatys_trinkets:corrupted_rosary",
+    "count": 1
+  },
+  "duration": 200
+}

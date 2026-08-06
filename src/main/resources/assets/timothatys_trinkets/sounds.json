@@ -1,0 +1,1142 @@
+{
+  "pagams_charm_drop": {
+    "subtitle": "subtitles.pagams_charm_drop",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:pagans_charm_drop_1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:pagans_charm_drop_2",
+        "stream": false
+      }
+    ]
+  },
+  "equip_undead_knight_armlet": {
+    "subtitle": "subtitles.equip_undead_knight_armlet",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:equip_undead_knight_armlet_1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:equip_undead_knight_armlet_2",
+        "stream": false
+      }
+    ]
+  },
+  "magical_hit_proc": {
+    "subtitle": "subtitles.magical_hit_proc",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:magical_hit_proc",
+        "stream": false
+      }
+    ]
+  },
+  "cleansing_dust_use": {
+    "subtitle": "subtitles.cleansing_dust_use",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:cleansing_dust_use",
+        "stream": false
+      }
+    ]
+  },
+  "farmers_ring_equip": {
+    "subtitle": "subtitles.farmers_ring_equip",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:_farmers_ring_equip_3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:farmers_ring_equip_1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:farmers_ring_equip_2",
+        "stream": false
+      }
+    ]
+  },
+  "champions_gauntlet_crit_proc": {
+    "subtitle": "subtitles.champions_gauntlet_crit_proc",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:champions_gauntlet_crit_proc",
+        "stream": false
+      }
+    ]
+  },
+  "drum_stacking": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:drum_stacking",
+        "stream": false
+      }
+    ]
+  },
+  "indulgency_used": {
+    "subtitle": "subtitles.indulgency_used",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:indulgency_used",
+        "stream": false
+      }
+    ]
+  },
+  "rare_item_sacrifice": {
+    "subtitle": "subtitles.rare_item_sacrifice",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:rare_item_sacrifice",
+        "stream": false
+      }
+    ]
+  },
+  "common_item_sacrifice": {
+    "subtitle": "subtitles.common_item_sacrifice",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:common_item_sacrifice",
+        "stream": false
+      }
+    ]
+  },
+  "equip_ritual_dagger": {
+    "subtitle": "subtitles.equip_ritual_dagger",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:equip_ritual_dagger",
+        "stream": false
+      }
+    ]
+  },
+  "dead_luck_death": {
+    "subtitle": "subtitles.dead_luck_death",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:dead_luck_death_1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:dead_luck_death_2",
+        "stream": false
+      }
+    ]
+  },
+  "purge": {
+    "subtitle": "subtitles.purge",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:purge",
+        "stream": false
+      }
+    ]
+  },
+  "land_blighted": {
+    "subtitle": "subtitles.land_blighted",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:land_blighted",
+        "stream": false
+      }
+    ]
+  },
+  "undeadification_start": {
+    "subtitle": "subtitles.undeadification_start",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:convert_start",
+        "stream": false
+      }
+    ]
+  },
+  "undeadification_loop": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:convert_loop",
+        "stream": false
+      }
+    ]
+  },
+  "undeadification_succesful": {
+    "subtitle": "subtitles.undeadification_succesful",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:undeadification_succesful",
+        "stream": false
+      }
+    ]
+  },
+  "undeadification_failed": {
+    "subtitle": "subtitles.undeadification_failed",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:undeadification_failed",
+        "stream": false
+      }
+    ]
+  },
+  "desolated": {
+    "subtitle": "subtitles.desolated",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:desolated",
+        "stream": false
+      }
+    ]
+  },
+  "marked_by_void_applied": {
+    "subtitle": "subtitles.marked_by_void_applied",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:marked_by_void_applied",
+        "stream": false
+      }
+    ]
+  },
+  "bottle_of_blood_drink": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:bottle_of_blood_drink",
+        "stream": false
+      }
+    ]
+  },
+  "drum_beat_wave_sound": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:drum_beat_wave_sound",
+        "stream": false
+      }
+    ]
+  },
+  "stunned_loop": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:stunned_loop",
+        "stream": false
+      }
+    ]
+  },
+  "molten_bane_mark": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:molten_bane_mark_5",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:molten_bane_mark_4",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:molten_bane_mark_3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:molten_bane_mark_2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:moltenbane_marked_1",
+        "stream": false
+      }
+    ]
+  },
+  "fire_stacking": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:fire_stacking_3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:fire_stacking_2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:fire_stacking_1",
+        "stream": false
+      }
+    ]
+  },
+  "striker_equip": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:striker_equip_4",
+        "stream": false
+      }
+    ]
+  },
+  "rare_item_drop_villager": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:rare_item_drop_villager",
+        "stream": false
+      }
+    ]
+  },
+  "sacrament_stage_completed": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:sacrament_stage_completed",
+        "stream": false
+      }
+    ]
+  },
+  "deed_accomplished": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:deed_accomplished",
+        "stream": false
+      }
+    ]
+  },
+  "sacrament_mob_slayed": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:sacrament_mob_slayed_1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:sacrament_mob_slayed_2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:sacrament_mob_slayed_3",
+        "stream": false
+      }
+    ]
+  },
+  "equip_fire_orb": {
+    "subtitle": "subtitles.equip_fire_orb",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:equip_fire_orb",
+        "stream": false
+      }
+    ]
+  },
+  "equip_void_sphere": {
+    "subtitle": "subtitles.equip_void_sphere",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:equip_void_sphere",
+        "stream": false
+      }
+    ]
+  },
+  "equip_venom_sphere": {
+    "subtitle": "subtitles.equip_venom_sphere",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:equip_venom_sphere",
+        "stream": false
+      }
+    ]
+  },
+  "equip_echo_sphere": {
+    "subtitle": "subtitles.equip_echo_sphere",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:equip_echo_sphere",
+        "stream": false
+      }
+    ]
+  },
+  "echo_orb_block_loop": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:echo_orb_block_loop",
+        "stream": false
+      }
+    ]
+  },
+  "echo_sphere_transmutation": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:echo_sphere_transmutation",
+        "stream": false
+      }
+    ]
+  },
+  "echo_orb_claim": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:echo_orb_claim",
+        "stream": false
+      }
+    ]
+  },
+  "armored_toxicity_hit": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:toxicity_hit_arm2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:toxicity_hit_arm1",
+        "stream": false
+      }
+    ]
+  },
+  "non_armored_toxicity_hit": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:toxicity_hit_noarm1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:toxicity_hit_noarm2",
+        "stream": false
+      }
+    ]
+  },
+  "toxic_droplet": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:toxic_droplet_5",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:toxic_droplet_4",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:toxic_droplet_3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:toxic_droplet_2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:toxic_droplet_1",
+        "stream": false
+      }
+    ]
+  },
+  "concussive_strike": {
+    "subtitle": "subtitles.concussive_strike",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:concussive_strike_2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:concussive_strike_1",
+        "stream": false
+      }
+    ]
+  },
+  "necro_cast_undeadification": {
+    "subtitle": "subtitles.necro_cast_undeadification",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:necro_cast_undeadification",
+        "stream": false
+      }
+    ]
+  },
+  "necro_cast_magic": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:necro_cast_magic",
+        "stream": false
+      }
+    ]
+  },
+  "necromancer_hurt": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:necromancer_hurt1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:necromancer_hurt2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:necromancer_hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "fear": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:fear2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:fear1",
+        "stream": false
+      }
+    ]
+  },
+  "hoof_stomp": {
+    "subtitle": "subtitles.hoof_stomp",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:hoof_stomp2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:hoof_stomp",
+        "stream": false
+      }
+    ]
+  },
+  "stomp_preparation": {
+    "subtitle": "subtitles.stomp_preparation",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:stomp_preparation_1",
+        "stream": false
+      }
+    ]
+  },
+  "debtlord_roar": {
+    "subtitle": "subtitles.debtlord_roar",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:debtlord_roar_2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:debtlord_roar",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:debtlord_roar_1",
+        "stream": false
+      }
+    ]
+  },
+  "heavy_swing": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:heavyswing_c",
+        "stream": false
+      }
+    ]
+  },
+  "debtlord_disarm": {
+    "subtitle": "subtitles.debtlord_disarm",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:debtlord_disarm1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:debtlord_disarm2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:debtlord_disarm3",
+        "stream": false
+      }
+    ]
+  },
+  "horn_hit": {
+    "subtitle": "subtitles.horn_hit",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:hornhit1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:hornhit2",
+        "stream": false
+      }
+    ]
+  },
+  "debtlord_death": {
+    "subtitle": "subtitles.debtlord_death",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:debtlord_death",
+        "stream": false
+      }
+    ]
+  },
+  "fear_my_claws": {
+    "subtitle": "subtitles.fear_my_claws",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:fear_my_claws_3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:fear_my_claws_2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:fear_my_claws_1",
+        "stream": false
+      }
+    ]
+  },
+  "hoof_step": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:hoof_step4",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:hoof_step3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:hoof_step2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:hoof_step1",
+        "stream": false
+      }
+    ]
+  },
+  "chains_launch": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:debtlord_chains_launch",
+        "stream": false
+      }
+    ]
+  },
+  "chains_caught": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:debtlord_chains_caught",
+        "stream": false
+      }
+    ]
+  },
+  "refreshing_chalice_use": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:refreshing_chalice_use",
+        "stream": false
+      }
+    ]
+  },
+  "debtlord_laser": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:debtlord_laser",
+        "stream": false
+      }
+    ]
+  },
+  "blood_boil": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:blood_boil1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:blood_boil2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:blood_boil3",
+        "stream": false
+      }
+    ]
+  },
+  "altar_punish": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:altar_punish",
+        "stream": false
+      }
+    ]
+  },
+  "altar_shot": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:altar_shot",
+        "stream": false
+      }
+    ]
+  },
+  "dlrd_talk": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:dlrd_talk1",
+        "stream": false
+      }
+    ]
+  },
+  "sword_parry": {
+    "subtitle": "subtitles.sword_parry",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:sword_parry1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:sword_parry2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:sword_parry3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:sword_parry4",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:sword_parry5",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:sword_parry6",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:sword_parry7",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:sword_parry8",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:sword_parry9",
+        "stream": false
+      }
+    ]
+  },
+  "ember_impulse": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:ember_impulse1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:ember_impulse2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:ember_impulse3",
+        "stream": false
+      }
+    ]
+  },
+  "gorge_eat": {
+    "subtitle": "subtitles.gorge_eat",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:gorge_eat1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:gorge_eat2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:gorge_eat3",
+        "stream": false
+      }
+    ]
+  },
+  "ember_blaze_powder": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:ember_blaze_powder1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:ember_blaze_powder2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:ember_blaze_powder3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:ember_blaze_powder4",
+        "stream": false
+      }
+    ]
+  },
+  "bead_insert": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:bead_insert1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:bead_insert2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:bead_insert3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:bead_insert4",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:bead_insert5",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:bead_insert6",
+        "stream": false
+      }
+    ]
+  },
+  "undead_knight_step": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:undead_knight_step_1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:undead_knight_step_2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:undead_knight_step_3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:undead_knight_step_4",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:undead_knight_step_5",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:undead_knight_step_6",
+        "stream": false
+      }
+    ]
+  },
+  "leather_parry_direction": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:leather_parry_direction1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:leather_parry_direction2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:leather_parry_direction3",
+        "stream": false
+      }
+    ]
+  },
+  "metallic_parry_direction": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:metallic_parry_direction1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:metallic_parry_direction2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:metallic_parry_direction3",
+        "stream": false
+      }
+    ]
+  },
+  "counter_attack": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:counter_attack1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:counter_attack2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:counter_attack3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:counter_attack4",
+        "stream": false
+      }
+    ]
+  },
+  "undead_knight_death_1": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:undead_knight_death_1",
+        "stream": false
+      }
+    ]
+  },
+  "undead_knight_death_2": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:undead_knight_death_2",
+        "stream": false
+      }
+    ]
+  },
+  "undead_knight_death_3": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:undead_knight_death_3",
+        "stream": false
+      }
+    ]
+  },
+  "soul_collect": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:soul_collect1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:soul_collect2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:soul_collect3",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:soul_collect4",
+        "stream": false
+      }
+    ]
+  },
+  "soul_destruction": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:soul_orb_destruction_1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:soul_orb_destruction_2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:soul_orb_destruction_3",
+        "stream": false
+      }
+    ]
+  },
+  "soul_absorption_cast_loop": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:undead_knight_cast_loop",
+        "stream": false
+      }
+    ]
+  },
+  "undead_knight_reincarnation_1": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:undead_knight_reincarnation_1",
+        "stream": false
+      }
+    ]
+  },
+  "undead_knight_reincarnation_2": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:undead_knight_reincarnation_2",
+        "stream": false
+      }
+    ]
+  },
+  "undead_knight_reincarnation_3": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:undead_knight_reincarnation_3",
+        "stream": false
+      }
+    ]
+  },
+  "extortion_success": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:extortion_success_1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:extortion_success_2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:extortion_success_3",
+        "stream": false
+      }
+    ]
+  },
+  "bottle_soul_orb_catch": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:bottle_soul_orb_catch_1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:bottle_soul_orb_catch_2",
+        "stream": false
+      }
+    ]
+  },
+  "soul_empower_hold_loop": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:soul_empower_hold_loop",
+        "stream": false
+      }
+    ]
+  },
+  "bloodstained": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:bloodstained",
+        "stream": false
+      }
+    ]
+  },
+  "mace_leather_kill": {
+    "subtitle": "subtitles.mace_kill",
+    "sounds": [
+      "timothatys_trinkets:mace_leather_kill1",
+      "timothatys_trinkets:mace_leather_kill2",
+      "timothatys_trinkets:mace_leather_kill3",
+      "timothatys_trinkets:mace_leather_kill4",
+      "timothatys_trinkets:mace_leather_kill5"
+    ]
+  },
+  "mace_chainmail_kill": {
+    "subtitle": "subtitles.mace_kill",
+    "sounds": [
+      "timothatys_trinkets:mace_chainmail_kill1",
+      "timothatys_trinkets:mace_chainmail_kill2",
+      "timothatys_trinkets:mace_chainmail_kill3",
+      "timothatys_trinkets:mace_chainmail_kill4",
+      "timothatys_trinkets:mace_chainmail_kill5"
+    ]
+  },
+  "mace_plate_kill": {
+    "subtitle": "subtitles.mace_kill",
+    "sounds": [
+      "timothatys_trinkets:mace_plate_kill1",
+      "timothatys_trinkets:mace_plate_kill2",
+      "timothatys_trinkets:mace_plate_kill3",
+      "timothatys_trinkets:mace_plate_kill4",
+      "timothatys_trinkets:mace_plate_kill5"
+    ]
+  },
+  "mace_flesh_kill": {
+    "subtitle": "subtitles.mace_kill",
+    "sounds": [
+      "timothatys_trinkets:mace_flesh_kill1",
+      "timothatys_trinkets:mace_flesh_kill2",
+      "timothatys_trinkets:mace_flesh_kill3",
+      "timothatys_trinkets:mace_flesh_kill4",
+      "timothatys_trinkets:mace_flesh_kill5"
+    ]
+  },
+  "mace_skeleton_kill": {
+    "subtitle": "subtitles.mace_kill",
+    "sounds": [
+      "timothatys_trinkets:mace_skeleton_kill1",
+      "timothatys_trinkets:mace_skeleton_kill2",
+      "timothatys_trinkets:mace_skeleton_kill3",
+      "timothatys_trinkets:mace_skeleton_kill4",
+      "timothatys_trinkets:mace_skeleton_kill5"
+    ]
+  },
+  "hubris_activation": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:hubris_sword_activation",
+        "stream": false
+      }
+    ]
+  },
+  "hubris_activation_mace": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:hubris_mace_activation",
+        "stream": false
+      }
+    ]
+  },
+  "cherubims_wisdom": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:cherubims_wisdom",
+        "stream": false
+      }
+    ]
+  },
+  "cherubims_wisdom_hit": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:cherubims_wisdom_hit",
+        "stream": false
+      }
+    ]
+  },
+  "angels_shroud_activation": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:angels_shroud_activation",
+        "stream": false
+      }
+    ]
+  },
+  "beatific_pallium_cast": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:beatific_pallium_cast",
+        "stream": false
+      }
+    ]
+  },
+  "beatific_pallium_explosion": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:beatific_pallium_explosion",
+        "stream": false
+      }
+    ]
+  },
+  "beatific_pallium_loop": {
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:beatific_pallium_loop",
+        "stream": false
+      }
+    ]
+  },
+  "beatific_pallium_impact": {
+    "subtitle": "subtitles.beatific_pallium_impact",
+    "sounds": [
+      {
+        "name": "timothatys_trinkets:beatific_pallium_impact1",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:beatific_pallium_impact2",
+        "stream": false
+      },
+      {
+        "name": "timothatys_trinkets:beatific_pallium_impact3",
+        "stream": false
+      }
+    ]
+  }
+}

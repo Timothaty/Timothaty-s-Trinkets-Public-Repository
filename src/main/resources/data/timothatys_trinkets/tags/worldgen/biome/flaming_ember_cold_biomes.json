@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:is_cold_end",
+      "required": false
+    },
+    {
+      "id": "#c:is_cold",
+      "required": false
+    },
+    {
+      "id": "#c:is_cold_nether",
+      "required": false
+    },
+    {
+      "id": "#c:is_cold_overworld",
+      "required": false
+    }
+  ]
+}

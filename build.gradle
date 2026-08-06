@@ -1,0 +1,57 @@
+plugins {
+    id 'eclipse'
+    id 'idea'
+    id 'net.neoforged.moddev' version '2.0.107'
+}
+
+version = '1.2a'
+base.archivesName = "TimothatysTrinkets"
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+repositories {
+    maven {
+        name = "Curse Maven"
+        url = "https://cursemaven.com"
+    }
+
+    maven {
+        name = "Illusive Soulworks maven"
+        url = "https://maven.theillusivec4.top/"
+    }
+}
+
+dependencies {
+    implementation "curse.maven:player-animation-library-1283899:8454212"
+    runtimeOnly "top.theillusivec4.curios:curios-neoforge:9.5.1+1.21.1"
+    compileOnly "top.theillusivec4.curios:curios-neoforge:9.5.1+1.21.1:api"
+}
+
+neoForge {
+    version = "21.1.240"
+
+    runs {
+        client {
+            client()
+        }
+
+        server {
+            server()
+        }
+
+        configureEach {
+            systemProperty 'forge.logging.markers', 'REGISTRIES'
+            logLevel = org.slf4j.event.Level.DEBUG
+        }
+    }
+
+    mods {
+        timothatys_trinkets {
+            sourceSet sourceSets.main
+        }
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}

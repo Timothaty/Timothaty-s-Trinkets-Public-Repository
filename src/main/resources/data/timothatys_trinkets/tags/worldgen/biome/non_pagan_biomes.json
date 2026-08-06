@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "warped_forest",
+    "nether_wastes",
+    "basalt_deltas",
+    "the_void",
+    "dripstone_caves",
+    "deep_dark",
+    "crimson_forest",
+    "desert"
+  ]
+}

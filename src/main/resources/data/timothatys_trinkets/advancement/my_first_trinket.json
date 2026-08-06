@@ -1,0 +1,15 @@
+{
+  "parent": "timothatys_trinkets:reliquiarium",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:rusty_gauntlet" },
+    "title": { "translate": "advancement.timothatys_trinkets.my_first_trinket.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.my_first_trinket.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "has_relic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "items": "#timothatys_trinkets:relics" } ] }
+    }
+  }
+}

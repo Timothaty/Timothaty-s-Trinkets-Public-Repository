@@ -1,0 +1,43 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Not specified"
+
+[[mods]]
+modId="timothatys_trinkets"
+version="1.0.0"
+displayName="Timothaty's Trinkets"
+credits="Timothaty"
+authors="Timothaty"
+
+[[mixins]]
+    config = "timothatys_trinkets.mixins.json"
+
+[[dependencies.timothatys_trinkets]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.230,21.1.240]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.timothatys_trinkets]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+[[dependencies.timothatys_trinkets]]
+    modId="player_animation_library"
+    type="required"
+    versionRange="[1.1.5+mc.1.21.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.timothatys_trinkets]]
+    modId="curios_api"
+    type="optional"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

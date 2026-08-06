@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "timothatys_trinkets:corrupted_ingot" },
+    { "item": "timothatys_trinkets:unholy_shard" },
+    { "item": "timothatys_trinkets:holy_ink" },
+    { "item": "minecraft:book" }
+  ],
+  "result": {
+    "id": "timothatys_trinkets:encyclopaedia_reliquiarum",
+    "count": 1
+  }
+}

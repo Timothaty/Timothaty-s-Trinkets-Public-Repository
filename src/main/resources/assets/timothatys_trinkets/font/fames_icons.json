@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "timothatys_trinkets:screens/fames_sanguinis_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uE001"
+      ]
+    }
+  ]
+}

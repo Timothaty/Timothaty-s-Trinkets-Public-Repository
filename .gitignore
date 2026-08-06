@@ -1,0 +1,14 @@
+.gradle/
+build/
+
+.idea/
+.eclipse/
+.settings/
+.classpath
+.project
+
+references/
+
+run/
+
+.DS_STORE

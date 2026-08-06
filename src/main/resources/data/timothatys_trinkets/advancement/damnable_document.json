@@ -1,0 +1,12 @@
+{
+  "parent": "timothatys_trinkets:reliquiarium",
+  "display": {
+    "icon": { "id": "timothatys_trinkets:indulgency" },
+    "title": { "translate": "advancement.timothatys_trinkets.damnable_document.title" },
+    "description": { "translate": "advancement.timothatys_trinkets.damnable_document.description" },
+    "frame": "task", "show_toast": true, "announce_to_chat": true, "hidden": false
+  },
+  "criteria": {
+    "has_indulgency": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "items": "timothatys_trinkets:indulgency" } ] } }
+  }
+}

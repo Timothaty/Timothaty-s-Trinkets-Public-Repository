@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:deep_dark",
+      "required": false
+    },
+    {
+      "id": "minecraft:dripstone_caves",
+      "required": false
+    },
+    {
+      "id": "minecraft:desert",
+      "required": false
+    },
+    {
+      "id": "minecraft:basalt_deltas",
+      "required": false
+    },
+    {
+      "id": "minecraft:warped_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:crimson_forest",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:player",
+    "minecraft:zombie",
+    "minecraft:husk",
+    "minecraft:drowned",
+    "minecraft:zombie_villager",
+    "#timothatys_trinkets:morgenshtern_skeletons",
+    "minecraft:creeper",
+    "minecraft:villager",
+    "minecraft:wandering_trader",
+    "minecraft:witch",
+    "minecraft:pillager",
+    "minecraft:vindicator",
+    "minecraft:evoker",
+    "minecraft:illusioner",
+    "minecraft:piglin",
+    "minecraft:piglin_brute",
+    "minecraft:zombified_piglin",
+    "minecraft:enderman",
+    "minecraft:blaze",
+    "minecraft:breeze",
+    "timothatys_trinkets:necromancer",
+    "timothatys_trinkets:undead_knight"
+  ]
+}

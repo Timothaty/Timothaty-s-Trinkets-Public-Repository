@@ -1,0 +1,111 @@
+{
+  "id": "holy_rosarium",
+  "category": "holiness",
+  "title": "guide.timothatys_trinkets.holiness.holy_rosarium.1",
+  "icon": "timothatys_trinkets:item/holy_rosarium",
+  "order": 0,
+  "elements": [
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.short_description",
+      "align": "center",
+      "gap": 17
+    },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.lore",
+      "align": "center",
+      "gap": 5
+    },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.lore.1",
+      "align": "left",
+      "gap": 5
+    },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.lore.2",
+      "align": "left",
+      "gap": 100
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.3",
+      "align": "center",
+      "gap": 5
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.1",
+      "align": "left",
+      "gap": 5
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.description.1",
+      "align": "left",
+      "gap": 7
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.2",
+      "align": "left",
+      "gap": 5
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.description.2",
+      "align": "left",
+      "gap": 7
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.3",
+      "align": "left",
+      "gap": 5
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.description.3",
+      "align": "left",
+      "gap": 7
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.4",
+      "align": "left",
+      "gap": 5
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.description.4",
+      "align": "left",
+      "gap": 7
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.5",
+      "align": "left",
+      "gap": 5
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.description.5",
+      "align": "left",
+      "gap": 7
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.6",
+      "align": "left",
+      "gap": 5
+     },
+    {
+      "type": "text",
+      "key": "guide.timothatys_trinkets.holiness.holy_rosarium.combination.description.6",
+      "align": "left",
+      "gap": 7
+    }
+  ]
+}
